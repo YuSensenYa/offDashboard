@@ -21,3 +21,6 @@ project/
 └── requirements.txt               # 项目依赖
 
 static 是前端代碼 
+
+
+![Uploading image.png…]()
