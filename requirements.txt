@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+adafruit-circuitpython-dht
+pycryptodome
+sqlalchemy
+sqlite
+
+
