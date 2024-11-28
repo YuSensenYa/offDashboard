@@ -28,4 +28,6 @@ project/
 
 static 是前端代碼 
 
+-----------------------前端頁面：：--------------
+![image](https://github.com/YuSensenYa/offDashboard/blob/master/image.png)
 
